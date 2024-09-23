@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hellmakima
-- 👀 I’m interested in art (games, pictures, music, games) and japan
+- 👀 I’m interested in art (games and pictures) and japan
 - 🌱 I’m currently learning CS engineering
 - 💞️ I’m looking to collaborate on anything that needs thinking
 - 📫 How to reach me - idk

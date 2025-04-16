@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Hellmakima
-- 👀 I’m interested in bits
-- 🌱 I’m currently learning CS engineering
-- 💞️ I’m looking to collaborate on anything that needs thinking
-- 📫 How to reach me - sufiyanhattar@gmail.com
+# Hey, I'm @Hellmakima
+
+- 👀 Into all things computer — software, hardware, you name it  
+- 🌱 Currently studying CS Engineering  
+- 💡 Always down to collab on stuff that makes you think  
+- 🛠️ Building: [Instagram Clone](https://github.com/Hellmakima/instagram)  
+- 📫 Hit me up: sufiyanhattar@gmail.com
 
 <!---
 Hellmakima/Hellmakima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
